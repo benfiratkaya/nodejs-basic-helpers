@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-basic-helpers",
+  "version": "1.0.0",
+  "description": "Basic helpers for Node.JS projects",
+  "main": "index.js",
+  "repository": "https://github.com/benfiratkaya/nodejs-basic-helpers.git",
+  "author": "firatkaya <benfiratkaya@gmail.com>",
+  "license": "MIT"
+}
