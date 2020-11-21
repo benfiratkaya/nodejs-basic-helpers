@@ -5,7 +5,7 @@ function dateNow() {
 
 // Add seconds, minutes, hours, days, months and years to current date time
 // Usage: dateAdd(3, "m")
-// |__ Added 3 month to current date time
+// |__ Added 3 months to the current date
 function dateAdd(time = 0, type = "s") {
   date = new Date();
   if (type === "s") date.setSeconds(date.getSeconds() + time);
